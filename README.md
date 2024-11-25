@@ -68,9 +68,6 @@ Dynamic Prompting: Generate prompts dynamically for each entity in the dataset.
 Error Handling: Graceful error handling for failed API calls or incomplete data retrieval.
 Data Download Options: Download extracted results in a CSV format or update directly to Google Sheets.
 
-## Loom Video Walkthrough
-<iframe src="https://www.loom.com/share/984418b0bf7744f1a0df598a5d873fc2?sid=f8193ced-2810-4b2a-8469-fb569add3841" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:100%; height:360px;"></iframe>
-
 License
 
 This project is licensed under the MIT License.
